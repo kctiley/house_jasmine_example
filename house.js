@@ -1,4 +1,5 @@
-function House() {
+function House(numberOfDoors) {
+    this.numberOfDoors = numberOfDoors;
 
   }
 
